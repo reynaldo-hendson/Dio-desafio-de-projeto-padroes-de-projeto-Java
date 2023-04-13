@@ -34,6 +34,8 @@ A relação entre Padrões de Projetos com Java e o spring framework pode-se ser
 <h3>Swagger</h3>
 Swagger: localhost:8080/swagger-ui.html
 
+![swagger](https://user-images.githubusercontent.com/80369346/231620155-b9825dfc-5e29-494d-8ea4-1e3516a6771a.jpg)
+
 <hr>
 <h2><a href="https://strn.com.br/artigos/2018/12/11/todas-as-anota%C3%A7%C3%B5es-do-jpa-anota%C3%A7%C3%B5es-de-mapeamento/">
 Anotações de Mapeamento </a></h2>
